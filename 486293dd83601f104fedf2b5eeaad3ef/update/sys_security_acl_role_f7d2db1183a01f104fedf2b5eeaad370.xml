@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-13 18:28:33</sys_created_on>
+        <sys_id>f7d2db1183a01f104fedf2b5eeaad370</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_incident.hello</sys_name>
+        <sys_package display_value="hasnat3400" source="486293dd83601f104fedf2b5eeaad3ef">486293dd83601f104fedf2b5eeaad3ef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="hasnat3400">486293dd83601f104fedf2b5eeaad3ef</sys_scope>
+        <sys_security_acl display_value="u_incident">77d2db1183a01f104fedf2b5eeaad33b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f7d2db1183a01f104fedf2b5eeaad370</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-13 18:28:33</sys_updated_on>
+        <sys_user_role display_value="hello" name="hello">4c6293dd83601f104fedf2b5eeaad3fa</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
